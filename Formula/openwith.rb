@@ -1,6 +1,6 @@
 require "formula"
 
-class OpenWith < Formula
+class Openwith < Formula
   desc "A small utility to specify which application bundle should open specific file extensions on macOS"
   homepage "https://github.com/jdek/openwith"
   url "https://github.com/jdek/openwith/releases/download/v0.0.1/openwith-v0.0.1.tar.xz"
